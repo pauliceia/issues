@@ -21,9 +21,23 @@ Copy the generated URL and clone the repository locally with the command "git cl
 git clone git@github.com:stackOvercrow/pauliceia.git
 ```
   
-When cloning, the remote repository on Github will automatically be configured as remote on your environment. Now you can develop your feature.
+When cloning, the remote repository on Github will automatically be configured as remote on your environment.
+  
+### 4- Downloading dependencies of the project
 
-### 3- Pushing to the remote repository
+  Open the terminal in the folder of your local repository and run the following command:
+  
+  ``` bash
+  npm install 
+  ```
+  
+  This command will install the dependencies of Pauliceia. After running it, go to the directory config and move the file "prod.env.js.EXAMPLE" to the project's base directory by removing the "EXAMPLE" from the filename. The result will be:
+  
+  ![image](https://user-images.githubusercontent.com/55334621/125361107-3cf5fc80-e343-11eb-8477-68b2de32dacb.png)
+  
+  Now you can develop your feature.
+
+### 5- Pushing to the remote repository
 
 As soon as you finish developing your feature, open the terminal in the folder of your local repository. Use the commands below to add your files, create a commit and send it to the remote repository:
   
@@ -33,7 +47,7 @@ git commit -m "Nome do Commit aqui"
 git push origin master
 ```
 
-### 4- Opening a Pull Request
+### 6- Opening a Pull Request
 
 To open a Pull Request to the Pauliceia repository, click on Contribute.
 ![image](https://user-images.githubusercontent.com/55334621/118753891-44fe5800-b83c-11eb-8034-7fcb13653800.png)
