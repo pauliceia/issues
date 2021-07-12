@@ -33,7 +33,7 @@ git commit -m "Nome do Commit aqui"
 git push origin master
 ```
 
-### 4- Openign a Pull Request
+### 4- Opening a Pull Request
 
 To open a Pull Request to the Pauliceia repository, click on Contribute.
 ![image](https://user-images.githubusercontent.com/55334621/118753891-44fe5800-b83c-11eb-8034-7fcb13653800.png)
