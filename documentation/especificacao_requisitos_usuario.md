@@ -1,4 +1,4 @@
-ESPECIFICAÇÃO DE REQUISITOS DO USUÁRIO
+Especificação de Requisitos do Usuário
 
 1. Propósito do documento
 
