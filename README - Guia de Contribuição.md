@@ -37,14 +37,15 @@ When cloning, the remote repository on Github will automatically be configured a
   
 ### 5- Running the server
   
-    Now, to run the server, run the following command in the terminal:
+  Now, to run the server, run the following command in the terminal:
 
     ``` bash
     npm run dev 
     ```
-    After the application is fully built, your terminal should look like the one in the photo below. 
   
-    ![image](https://user-images.githubusercontent.com/55334621/140801701-31b7cfff-2d03-4553-9fbb-a24e9ec781ae.png)
+  After the application is fully built, your terminal should look like the one in the photo below. 
+  
+  ![image](https://user-images.githubusercontent.com/55334621/140801701-31b7cfff-2d03-4553-9fbb-a24e9ec781ae.png)
 
 ### 6- Pushing to the remote repository
 
@@ -66,7 +67,7 @@ Then, click in Open Pull Request.
 
 When creating the Pull Request, Github will ask for a title and description. It is important to emphasize two points: 
   1. Your commit must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/);
-  2. Pull Request must be made to the develop branch, as shown in the image. 
+  2. Pull Requests must be made to the develop branch, as shown in the image. 
  
 ![image](https://user-images.githubusercontent.com/55334621/140802850-4dadfeb0-2139-4181-a070-179a4cadddfb.png)
   
