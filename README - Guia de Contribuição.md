@@ -35,9 +35,18 @@ When cloning, the remote repository on Github will automatically be configured a
   
   ![image](https://user-images.githubusercontent.com/55334621/125361107-3cf5fc80-e343-11eb-8477-68b2de32dacb.png)
   
-  Now you can develop your feature.
+### 5- Running the server
+  
+    Now, to run the server, run the following command in the terminal:
 
-### 5- Pushing to the remote repository
+    ``` bash
+    npm run dev 
+    ```
+    After the application is fully built, your terminal should look like the one in the photo below. 
+  
+    ![image](https://user-images.githubusercontent.com/55334621/140801701-31b7cfff-2d03-4553-9fbb-a24e9ec781ae.png)
+
+### 6- Pushing to the remote repository
 
 As soon as you finish developing your feature, open the terminal in the folder of your local repository. Use the commands below to add your files, create a commit and send it to the remote repository:
   
@@ -47,7 +56,7 @@ git commit -m "Nome do Commit aqui"
 git push origin master
 ```
 
-### 6- Opening a Pull Request
+### 7- Opening a Pull Request
 
 To open a Pull Request to the Pauliceia repository, click on Contribute.
 ![image](https://user-images.githubusercontent.com/55334621/118753891-44fe5800-b83c-11eb-8034-7fcb13653800.png)
@@ -55,10 +64,10 @@ To open a Pull Request to the Pauliceia repository, click on Contribute.
 Then, click in Open Pull Request.
 ![image](https://user-images.githubusercontent.com/55334621/118753519-935f2700-b83b-11eb-90e1-76726c946709.png)
 
-  
-When creating the Pull Request, Github will ask for a title and description. It is important that you fill these fields in a way that explains the feature that you have developed.
-
+When creating the Pull Request, Github will ask for a title and description. It is important to emphasize two points: 
+  1. Your commit must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/);
+  2. Pull Request must be made to the develop branch, as shown in the image. 
  
-![image](https://user-images.githubusercontent.com/55334621/118753590-aeca3200-b83b-11eb-8d2a-557a6c2ab64c.png)
+![image](https://user-images.githubusercontent.com/55334621/140802850-4dadfeb0-2139-4181-a070-179a4cadddfb.png)
   
-Your Pull Request Inglês will be verified by one of our members.
+Now just wait for one of our members to verify your Pull Request.
