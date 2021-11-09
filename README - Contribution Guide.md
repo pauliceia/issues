@@ -10,7 +10,7 @@ The first thing you need to do is to fork our repository. When you fork a reposi
 
 ### 2- Set up local repository
 
-You will now need a local repository of the project. First, you will need to get your SSH key.
+You will now need a local repository of the project. For this you will need to have the SSH key of your repository. To do this, first click on Code. 
 ![image](https://user-images.githubusercontent.com/55334621/118745672-0e6d1100-b82d-11eb-8bf2-d79d79c6a55b.png)
 
 After that, click on SSH. 
@@ -31,7 +31,7 @@ Open the terminal in the folder of your local repository and run the following c
 npm install 
 ```
 
-This command will install the dependencies of Pauliceia. After running it, go to the config directory and create a copy of the "prod.env.js.EXAMPLE" file  in the same directory. After that, rename the copy by removing the ".js.EXAMPLE" from the filename. The result will be:
+This command will install the dependencies of Pauliceia. After running it, go to the "config" directory and create a copy of the "prod.env.js.EXAMPLE" file  in the same directory and rename the copy by removing the ".js.EXAMPLE" from the filename. The result will be:
 
 ![image](https://user-images.githubusercontent.com/55334621/125361107-3cf5fc80-e343-11eb-8477-68b2de32dacb.png)
   
@@ -49,7 +49,7 @@ After the application is fully built, your terminal should look like the one in 
 
 ### 6- Pushing to the remote repository
  
-As soon as you finish developing your feature, open the terminal in the folder of your local repository. Use the commands below to add your files, create a commit and send it to the remote repository, but your commit name must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/):
+As soon as you finish developing your feature, open the terminal in the folder of your local repository. Use the commands below to add your files, create a commit (your commit name must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/):) and send it to the remote repository.
   
 ``` bash
 git add .
@@ -67,7 +67,7 @@ Then, click in Open Pull Request.
 
 When creating the Pull Request, Github will ask for a title and description. It is important to emphasize two points: 
   1. Your Pull Requests names must follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/);
-  2. Pull Requests must be made to the develop branch, as shown in the image. 
+  2. Pull Requests must be made to the "develop" branch, as shown in the image. 
  
 ![image](https://user-images.githubusercontent.com/55334621/140802850-4dadfeb0-2139-4181-a070-179a4cadddfb.png)
   
