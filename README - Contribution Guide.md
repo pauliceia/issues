@@ -31,9 +31,9 @@ Open the terminal in the folder of your local repository and run the following c
 npm install 
 ```
 
-This command will install the dependencies of Pauliceia. After running it, go to the "config" directory and create a copy of the "prod.env.js.EXAMPLE" file  in the same directory and rename the copy by removing the ".js.EXAMPLE" from the filename. The result will be:
+This command will install the dependencies of Pauliceia. After running it, go to the "config" directory and create a copy of the "prod.env.js.EXAMPLE" file  in the same directory and rename the copy by removing the ".EXAMPLE" from the filename. The result will be:
 
-![image](https://user-images.githubusercontent.com/55334621/125361107-3cf5fc80-e343-11eb-8477-68b2de32dacb.png)
+![image](https://user-images.githubusercontent.com/55334621/141160923-7f3b2999-d22b-4529-a5d9-94960e310f20.png)
   
 ### 5- Running the server
   
@@ -46,8 +46,12 @@ npm run dev
 After the application is fully built, your terminal should look like the one in the photo below. 
 
 ![image](https://user-images.githubusercontent.com/55334621/140801701-31b7cfff-2d03-4553-9fbb-a24e9ec781ae.png)
+  
+### 6- Developing your Feature
+ 
+It is essential that your code (comments, variables, methods and functions) are in English and follow the indentation and structuring patterns of other parts of the project. In this way, it will be easier and quick to understand your contribution, as well as maintaining the identity of the code of Pauliceia. 
 
-### 6- Pushing to the remote repository
+### 7- Pushing to the remote repository
  
 As soon as you finish developing your feature, open the terminal in the folder of your local repository. Use the commands below to add your files, create a commit (your commit name must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/):) and send it to the remote repository.
   
@@ -57,7 +61,7 @@ git commit -m "Commit name"
 git push origin master
 ```
 
-### 7- Opening a Pull Request
+### 8- Opening a Pull Request
 
 To open a Pull Request to the Pauliceia repository, click on Contribute.
 ![image](https://user-images.githubusercontent.com/55334621/118753891-44fe5800-b83c-11eb-8034-7fcb13653800.png)
