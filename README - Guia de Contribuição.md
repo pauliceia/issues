@@ -31,9 +31,9 @@ Abra um terminal na pasta do seu repositório local e digite o seguinte comando:
 npm install 
 ```
 
-Este comando instalará automaticamente as dependências do Pauliceia. Depois, vá para o diretório "config" e crie uma cópia do arquivo "prod.env.js.EXAMPLE" no mesmo local e renomeie-o removendo o ".js.EXAMPLE" de seu nome. O resultado esperado será:
+Este comando instalará automaticamente as dependências do Pauliceia. Depois, vá para o diretório "config" e crie uma cópia do arquivo "prod.env.js.EXAMPLE" no mesmo local e renomeie-o removendo o ".EXAMPLE" de seu nome. O resultado esperado será:
 
-![image](https://user-images.githubusercontent.com/55334621/125361107-3cf5fc80-e343-11eb-8477-68b2de32dacb.png)
+![image](https://user-images.githubusercontent.com/55334621/141160914-f99bacb3-ba1a-4879-a065-558d743f3a51.png)
   
 ### 5- Fazendo o servidor funcionar
   
@@ -46,8 +46,12 @@ npm run dev
 Depois que a aplicação terminar de ser construída, seu terminal deverá parecer com o da foto abaixo. 
 
 ![image](https://user-images.githubusercontent.com/55334621/140801701-31b7cfff-2d03-4553-9fbb-a24e9ec781ae.png)
+  
+### 6- Desenvolvendo a sua feature
+ 
+É imprescindível que o seu código (comentários, variáveis, métodos e funções) esteja em inglês e siga os padrões de indentação e estruturação de outras partes do projeto. Dessa forma, será mais fácil e rápido entender a sua contribuição, além de manter a identidade do código do Pauliceia.
 
-### 6- Enviando suas mudanças para o repositório remoto
+### 7- Enviando suas mudanças para o repositório remoto
  
 Quando você terminar de desenvolver a sua funcionalidade, abra um terminal na pasta que funciona como seu repositório local. Use os comandos abaixo para adicionar seus arquivos, crie um commit (o nome dele deverá seguir o [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/):) e envie-o para seu repositório remoto.
   
@@ -57,7 +61,7 @@ git commit -m "Nome do Commit"
 git push origin master
 ```
 
-### 7- Abrindo um Pull Request
+### 8- Abrindo um Pull Request
 
 Para abrir um Pull Request para o repositório do Pauliceia, clique em Contribuir.
 ![image](https://user-images.githubusercontent.com/55334621/118753891-44fe5800-b83c-11eb-8034-7fcb13653800.png)
