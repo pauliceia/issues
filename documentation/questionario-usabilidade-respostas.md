@@ -14,7 +14,29 @@ Este questionário foi realizado entre novembro e dezembro de 2021 e foi destina
 
 ## Resultados
 
-!()
+![Pergunta 1](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-1.png)
+
+![Pergunta 2](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/answers-2.png)
+
+![Pergunta 3](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-3.png)
+
+![Pergunta 4](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-4.png)
+
+![Pergunta 5](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-5.png)
+
+![Pergunta 6](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-6.png)
+
+![Pergunta 7](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-7.png)
+
+![Pergunta 8](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-8.png)
+
+![Pergunta 9](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-9.png)
+
+![Pergunta 10](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/chart-10.png)
+
+![Pergunta 11](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/answers-11.png)
+
+![Pergunta 12](https://github.com/pauliceia/issues/blob/aracele-patch-1/documentation/ux-design/assets/usability-survey-charts/answers-12.png)
 
 ## Pontos de melhoria
 
